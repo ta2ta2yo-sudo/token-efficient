@@ -1,5 +1,7 @@
 # Token Efficient
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A lightweight skill for ChatGPT and Codex that reduces unnecessary context, file reads, searches, tool output, and response length without sacrificing correctness or safety.
 
 [日本語](#日本語) | [English](#english)
@@ -110,6 +112,8 @@ This skill does not guarantee a specific token reduction. Actual usage depends o
 
 The skill follows the OpenAI agent skill format used by ChatGPT and Codex. See the [OpenAI skill documentation](https://learn.chatgpt.com/docs/build-skills).
 
-## License
+## License / ライセンス
 
-No license has been selected yet. Public repository visibility does not by itself grant permission to reuse or redistribute the contents.
+MIT License. See [LICENSE](LICENSE).
+
+MITライセンスで公開しています。詳細は[LICENSE](LICENSE)を参照してください。
