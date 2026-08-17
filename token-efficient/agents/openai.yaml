@@ -1,0 +1,7 @@
+interface:
+  display_name: "Token Efficient"
+  short_description: "Minimize context and output without sacrificing quality"
+  default_prompt: "Use $token-efficient to complete this task with minimal context and output while preserving correctness."
+
+policy:
+  allow_implicit_invocation: false
