@@ -1,0 +1,41 @@
+{
+  "name": "token-efficient",
+  "version": "0.1.0",
+  "description": "Reduce unnecessary context and output while preserving correctness, safety, and required verification.",
+  "author": {
+    "name": "ta2ta2yo-sudo",
+    "url": "https://github.com/ta2ta2yo-sudo"
+  },
+  "homepage": "https://github.com/ta2ta2yo-sudo/token-efficient",
+  "repository": "https://github.com/ta2ta2yo-sudo/token-efficient",
+  "license": "MIT",
+  "keywords": [
+    "token-efficiency",
+    "context-management",
+    "chatgpt",
+    "codex",
+    "agent-skills"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Token Efficient",
+    "shortDescription": "Use less context without sacrificing quality.",
+    "longDescription": "A lightweight, explicitly invoked skill that keeps file reads, searches, tool output, and responses focused while preserving correctness, safety, user intent, and required verification.",
+    "developerName": "ta2ta2yo-sudo",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive"
+    ],
+    "websiteURL": "https://github.com/ta2ta2yo-sudo/token-efficient",
+    "privacyPolicyURL": "https://github.com/ta2ta2yo-sudo/token-efficient/blob/main/docs/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/ta2ta2yo-sudo/token-efficient/blob/main/docs/TERMS.md",
+    "defaultPrompt": [
+      "Use $token-efficient to inspect and edit this project efficiently.",
+      "Use $token-efficient to analyze this large log with focused reads.",
+      "Use $token-efficient and keep the final answer concise."
+    ],
+    "brandColor": "#14B8A6",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png"
+  }
+}

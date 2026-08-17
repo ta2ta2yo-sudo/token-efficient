@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Token Efficient logo</title>
+  <desc id="desc">A compact teal flow mark on a dark rounded square.</desc>
+  <rect width="512" height="512" rx="112" fill="#0B1020"/>
+  <path d="M112 160h184" fill="none" stroke="#99F6E4" stroke-width="36" stroke-linecap="round"/>
+  <path d="M112 256h132" fill="none" stroke="#5EEAD4" stroke-width="36" stroke-linecap="round"/>
+  <path d="M112 352h80" fill="none" stroke="#2DD4BF" stroke-width="36" stroke-linecap="round"/>
+  <path d="m292 190 76 66-76 66" fill="none" stroke="#FFFFFF" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="404" cy="256" r="22" fill="#14B8A6"/>
+</svg>
